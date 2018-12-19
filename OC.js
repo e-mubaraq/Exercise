@@ -1,2 +1,2 @@
 var greeting  = "hellooo world!";
-// alert(greeting);
+alert(greeting);
